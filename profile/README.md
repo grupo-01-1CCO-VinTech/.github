@@ -17,7 +17,7 @@
 <p>A TechNoir conta com um time especializado, competente e inovador na área de tecnologia, com <b>foco em qualidade e em transformar processos</b> em uma experiência inesquecível para os nossos clientes. Contudo é de extrema importância ressaltar nossa prioridade com a inovação e com nossos clientes, oferecendo o nosso melhor para revolucionar o seu futuro.
 </p>
 <p>
-Conheça a página  <a href="http://http://projeto-vintech.atwebpages.com/vintec.html" target="_blank" rel="noopener noreferrer">VinTech</a>
+Conheça a página  <a href="http://projeto-vintech.atwebpages.com/vintec.html" target="_blank" rel="noopener noreferrer">VinTech</a>
 
 </p>
 
