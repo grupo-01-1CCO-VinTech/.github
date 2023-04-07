@@ -16,6 +16,10 @@
 <p>Com prazer apresentamos a VinTech, um projeto com foco no desenvolvimento, produção e a comercialização de  equipamentos para a detecção de temperatura em estufas.</p>
 <p>A TechNoir conta com um time especializado, competente e inovador na área de tecnologia, com <b>foco em qualidade e em transformar processos</b> em uma experiência inesquecível para os nossos clientes. Contudo é de extrema importância ressaltar nossa prioridade com a inovação e com nossos clientes, oferecendo o nosso melhor para revolucionar o seu futuro.
 </p>
+<p>
+Conheça a página  <a href="http://http://projeto-vintech.atwebpages.com/vintec.html" target="_blank" rel="noopener noreferrer">VinTech</a>
+
+</p>
 
 <h2>Utilizamos</h2>
 <p>Todos os nossos projetos são elaborados utilizandos essas linguagens:</p>
